@@ -1,9 +1,7 @@
 
 # Google_translate
 ## 安装环境
-* ```python 
-  pip install execjs
-  ```
+* ```pip install execjs```
 
 * python 3.*
 
